@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+p{
+    font-size:24pix;
+    color:chocolate;
+}
+img{
+    border:5px solid  black ;
+}
+.Link{
+    text-decoration: none;
+}
+#Heading1{
+    background-color: blueviolet;
+}
